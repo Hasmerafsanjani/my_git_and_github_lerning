@@ -1,1 +1,3 @@
 og my git stage
+this is the lerning methe of git
+
